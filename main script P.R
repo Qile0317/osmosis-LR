@@ -1,11 +1,10 @@
 #Load Packages
 library(base)
 library(compiler)
+library(tidyverse)
 
 #note: there is definitely something wrong with the SI5 and SF5 data, two of the
 #     _corresponding values are completely out of porportion. 
-##also, I need to make a ggplot with two different colors for different potatoes
-# for better presentation, of course.
 
 ##imput data from experiment
 
